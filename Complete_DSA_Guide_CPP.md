@@ -28,11 +28,6 @@
 
 ## Introduction
 
-### Your Journey
-- **Background**: B.Tech CS, 2.5 years Data Engineering experience
-- **Goal**: Master DSA in C++ to crack tier-1 company interviews (40-50 LPA CTC)
-- **Target**: LeetCode Hard, Codeforces problems
-
 ### Learning Approach
 1. **Pattern-Based Learning**: Understand problem patterns, not just solutions
 2. **Progressive Difficulty**: Start with basics, gradually move to advanced
